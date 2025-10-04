@@ -47,7 +47,30 @@ STM32 | ESP32 | Raspberry Pi | Arduino | FreeRTOS | FPGA
 UART | CAN | LIN | FlexRay | Wi-Fi | Ethernet  
 
 ### Tools & IDEs
-MATLAB/Simulink | STM32CubeIDE | Proteus | CATIA | RViz | Gazebo | Quartus | VS Code | PyCharm | Jupyter
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Simulink_Logo.png" height="40" alt="simulink logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/STMicroelectronics_logo.svg" height="40" alt="stm32cubeide logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Proteus_Logo.png" height="40" alt="proteus logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/CATIA_logo.png" height="40" alt="catia logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/RViz_Logo.png" height="40" alt="rviz logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Gazebo_logo.png" height="40" alt="gazebo logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Intel_Quartus_Prime_Logo.png" height="40" alt="quartus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+</p>
+
 
 ---
 
