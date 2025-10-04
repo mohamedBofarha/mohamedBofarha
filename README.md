@@ -31,10 +31,6 @@ I am a final-year Robotics Engineering student with a strong passion for embedde
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
 ### Robotics & AI
@@ -47,29 +43,36 @@ STM32 | ESP32 | Raspberry Pi | Arduino | FreeRTOS | FPGA
 UART | CAN | LIN | FlexRay | Wi-Fi | Ethernet  
 
 ### Tools & IDEs
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <!-- devicon CDN (fonctionne pour matlab, vscode, pycharm, jupyter, opencv, ...) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Simulink_Logo.png" height="40" alt="simulink logo" />
+
+  <!-- logos que tu as ajoutés localement dans le repo -->
+  <img src="assets/icons/simulink.svg" height="40" alt="Simulink" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/STMicroelectronics_logo.svg" height="40" alt="stm32cubeide logo" />
+  <img src="assets/icons/stm32cubeide.svg" height="40" alt="STM32CubeIDE" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Proteus_Logo.png" height="40" alt="proteus logo" />
+  <img src="assets/icons/proteus.svg" height="40" alt="Proteus" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/CATIA_logo.png" height="40" alt="catia logo" />
+  <img src="assets/icons/catia.svg" height="40" alt="CATIA" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/RViz_Logo.png" height="40" alt="rviz logo" />
+  <img src="assets/icons/rviz.svg" height="40" alt="RViz" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Gazebo_logo.png" height="40" alt="gazebo logo" />
+  <img src="assets/icons/gazebo.svg" height="40" alt="Gazebo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Intel_Quartus_Prime_Logo.png" height="40" alt="quartus logo" />
+  <img src="assets/icons/quartus.svg" height="40" alt="Quartus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+
+  <!-- devicon CDN pour les autres IDE reconnus -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </p>
+
 
 
 ---
