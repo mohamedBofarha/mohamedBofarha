@@ -43,35 +43,48 @@ STM32 | ESP32 | Raspberry Pi | Arduino | FreeRTOS | FPGA
 UART | CAN | LIN | FlexRay | Wi-Fi | Ethernet  
 
 ### Tools & IDEs
-
+### 🧰 Tools & IDEs
 <p align="left">
-  <!-- devicon CDN (fonctionne pour matlab, vscode, pycharm, jupyter, opencv, ...) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+  <!-- MATLAB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
   <img width="12" />
 
-  <!-- logos que tu as ajoutés localement dans le repo -->
-  <img src="assets/icons/simulink.svg" height="40" alt="Simulink" />
-  <img width="12" />
-  <img src="assets/icons/stm32cubeide.svg" height="40" alt="STM32CubeIDE" />
-  <img width="12" />
-  <img src="assets/icons/proteus.svg" height="40" alt="Proteus" />
-  <img width="12" />
-  <img src="assets/icons/catia.svg" height="40" alt="CATIA" />
-  <img width="12" />
-  <img src="assets/icons/rviz.svg" height="40" alt="RViz" />
-  <img width="12" />
-  <img src="assets/icons/gazebo.svg" height="40" alt="Gazebo" />
-  <img width="12" />
-  <img src="assets/icons/quartus.svg" height="40" alt="Quartus" />
+  <!-- Simulink -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Simulink_Logo.png" height="40" alt="Simulink logo" />
   <img width="12" />
 
-  <!-- devicon CDN pour les autres IDE reconnus -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <!-- STM32CubeIDE -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/STM32CubeIDE_logo.png" height="40" alt="STM32CubeIDE logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
+
+  <!-- Proteus -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Proteus_Design_Suite_Logo.png" height="40" alt="Proteus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+
+  <!-- CATIA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/CATIA_Logo.png" height="40" alt="CATIA logo" />
+  <img width="12" />
+
+  <!-- Gazebo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Gazebo_logo.png" height="40" alt="Gazebo logo" />
+  <img width="12" />
+
+  <!-- Quartus -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Intel_Quartus_Prime_Logo.png" height="40" alt="Quartus logo" />
+  <img width="12" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
+  <img width="12" />
+
+  <!-- PyCharm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
+  <img width="12" />
+
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </p>
+
 
 
 
