@@ -49,29 +49,7 @@ UART | CAN | LIN | FlexRay | Wi-Fi | Ethernet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
   <img width="12" />
 
-  <!-- Simulink -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Simulink_Logo.png" height="40" alt="Simulink logo" />
-  <img width="12" />
-
-  <!-- STM32CubeIDE -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/STM32CubeIDE_logo.png" height="40" alt="STM32CubeIDE logo" />
-  <img width="12" />
-
-  <!-- Proteus -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Proteus_Design_Suite_Logo.png" height="40" alt="Proteus logo" />
-  <img width="12" />
-
-  <!-- CATIA -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/CATIA_Logo.png" height="40" alt="CATIA logo" />
-  <img width="12" />
-
-  <!-- Gazebo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Gazebo_logo.png" height="40" alt="Gazebo logo" />
-  <img width="12" />
-
-  <!-- Quartus -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Intel_Quartus_Prime_Logo.png" height="40" alt="Quartus logo" />
-  <img width="12" />
+  
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
